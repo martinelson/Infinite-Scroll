@@ -1,0 +1,28 @@
+a{
+    color: whitesmoke;
+}
+
+body{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #574b90, #fc85ae);
+    color: whitesmoke;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px
+}
+
+p{
+    margin: 5% 5% 5%;
+}
+
+.credits{
+    font-size: 16px;
+    margin-top: -3%;
+}
+
+img{
+    display: block;
+    margin: 5% auto;
+    border-radius: 5px;
+    width: 80%;
+    box-shadow: 5px 10px 10px black;
+}
